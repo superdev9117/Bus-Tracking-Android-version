@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Thrifa</string>
+    <string name="app_title">Coug Transit</string>
+    <string name="app_version">v 1.11</string>
+    <string name="contact_email">contact@thrifa.net</string>
+
+
+    <!--Route string value-->
+    <string name="default_route_name">Unknown Route</string>
+    <string name="change_route_button_label">Change Route</string>
+    <string name="disired_bus_default">Unknown</string>
+
+    <!--sharedPreferenceKey-->
+    <string name="disired_bus_key">com.example.myapp.PREFERENCE_FILE_KEY</string>
+    <string name="currenct_selected_busstop_key">com.example.myapp.CURRENT_SELECTED_BUSSTOP_KEY</string>
+    <string name="device_info_firebase_cloud_messaging_token">com.example.myapp.FIREBASE_CLOUD_MESSAGEING_TOKEN</string>
+    <string name="device_info_reference">com.example.myapp.DEVICE_INFO_REFERENCE</string>
+
+
+    <!--current bus status preference-->
+    <string name="alarm_preference_key">com.example.myapp.ALARM_REMAINING_PREFERENCE</string>
+
+
+
+    <string name="alarm_flag_key">com.example.myapp.ALARM_FLAG</string>
+    <string name="alarm_setting_time_key">com.example.myapp.ALARM_SETTING_TIME</string>
+    <!--<string name="alarm_remaining_time_key">com.example.myapp.ALARM_REMAINING_TIME</string>-->
+    <!--<string name="current_remaining_time_key">com.example.myapp.CURRENT_REMAINING_TIME</string>-->
+
+
+
+    <string name="about_tab_info">Copyright 2016, Thrifa. All Right Reserved</string>
+
+    <!--set alarm-->
+    <string name="alarm_setting_title">Set Alarm</string>
+    <string name="alarm_setting_message">alarm will notify you before the bus arriving in setting time (in minutes)</string>
+
+    <!--remove alarm-->
+    <string name="alarm_remove_message">Do you want to remove this alarm ?</string>
+    <string name="alarm_remove_title">Remove Alarm</string>
+
+
+    <!--<string name="app_name">FloatingSearchView</string>-->
+    <string name="hint">Search</string>
+    <string name="speech_prompt">Say Something</string>
+    <string name="speech_not_supported">speech to text doesn\'t seems supported</string>
+    <string name="menu.clear">clear</string>
+    <string name="menu.tts">text to speech</string>
+    <string name="menu.toggle.icon">Icon Visible</string>
+    <string name="menu.icon.type">Icon Type</string>
+
+    <!--location permission request-->
+    <string name="permission_rationale_location">permission_rationale_location</string>
+    <string name="permission_required_toast">permission_required_toast</string>
+    <string name="location_permission_denied">location_permission_denied</string>
+</resources>

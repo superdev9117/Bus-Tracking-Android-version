@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1038631331613",
+    "firebase_url": "https://thrifa-1dd03.firebaseio.com",
+    "project_id": "thrifa-1dd03",
+    "storage_bucket": "thrifa-1dd03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038631331613:android:c12c04d201898be6",
+        "android_client_info": {
+          "package_name": "com.thrifa.ruofei.bus_locator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038631331613-it7d0adkd4hjaocnktopb0apvkc6l054.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSEyZ2Y3AZ-uq9HxW17RC8j3PNrqsRHWE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
